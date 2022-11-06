@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/{pg-yang}/count.svg)
